@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mind Reader - Privacy Policy",
-  description: "Privacy Policy for Mind Reader",
+  title: "PlayScope - Privacy Policy",
+  description: "Privacy Policy for PlayScope",
 };
 
 export default function RootLayout({
